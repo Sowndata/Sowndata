@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sowndata
-- 👀 I’m interested in Business Analysis
+- 👀 I’m interested in Analysing data
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me sownd.official@gmail.com
 
