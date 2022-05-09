@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sowndata
+- 👋 Hi, I’m Sowndarya Venkateswaran
 - Data Scientist | Data-Believer 
 - Weave meaningful stories with Data || Passionate to help business and people to make better decisions
 - 📫 How to reach me sowndaryavenkat@gmail.com
